@@ -1,6 +1,7 @@
 #include <greatest.h>
 
 #define RANDOMSTR_IMPLEMENTATION
+#define RANDOMSTR_INSECURE
 #include <randomstr.h>
 
 TEST x_randomstr_should_succeed(void) {

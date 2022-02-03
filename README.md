@@ -1,7 +1,7 @@
 randomstr
 ==========
 [![License](https://img.shields.io/badge/license-0BSD-blue.svg)](https://opensource.org/licenses/0BSD)
-[![CI for Linux, Windows, macOS](https://github.com/offscale/randomstr/actions/workflows/linux-Windows-macOS.yml/badge.svg)](https://github.com/offscale/randomstr/actions/workflows/github-actions.yml)
+[![CI for Linux, Windows, macOS](https://github.com/offscale/c89randomstr/actions/workflows/linux-Windows-macOS.yml/badge.svg)](https://github.com/offscale/c89randomstr/actions/workflows/github-actions.yml)
 [![C89](https://img.shields.io/badge/C-89-blue)](https://en.wikipedia.org/wiki/C89_(C_version))
 
 Simple randomstr function in a header-only C89 library. Just `#define RANDOMSTR_IMPLEMENTATION` once-only in your program (before including the header).
